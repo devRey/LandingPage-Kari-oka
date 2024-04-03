@@ -1,7 +1,8 @@
 
+
 @font-face {
     font-family: Tauri;
-    src: url();
+    src: url('https://fonts.googleapis.com/css2?family=Tauri&display=swap');
 }
 
 * {
